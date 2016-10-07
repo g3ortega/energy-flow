@@ -53,7 +53,7 @@ h2 {
     position: relative;
     bottom: 20%;
     font-weight: 300;
-    font-family: Verdana;
+    font-family: sans-serif;
     color: #CAA93C;
     margin: 2px;
     padding: 2px;
@@ -65,7 +65,7 @@ h3 {
     position: relative;
     bottom: 20%;
     font-weight: 300;
-    font-family: Verdana;
+    font-family: sans-serif;
     color: #CAA93C;
     margin: 2px;
     padding: 2px;
